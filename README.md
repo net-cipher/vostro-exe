@@ -1,8 +1,7 @@
 - 👋 Hi, I’m V.Ranjith.
 - 👀 I’m interested in Ethical Hacking.
 - 🌱 I’m currently learning Cyber-Security.
-- 💞️ I’m looking to collaborate on Ozone Cybersecurity.
-- 📫 How to reach me --> IG (vostro.exe).
+- 📫 How to reach me --> IG (www.instagram.com/cyber._.kiddie).
 - 😄 My Quote - The more quieter you are, The more you are able to hear!
 - ⚡ Fun fact: Ethical Hacking is legal.
 
