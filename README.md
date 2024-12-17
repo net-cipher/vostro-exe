@@ -2,6 +2,7 @@
 - 👀 I’m interested in Ethical Hacking.
 - 🌱 I’m currently learning Cyber-Security.
 - 📫 How to reach me --> IG (www.instagram.com/cyber._.kiddie).
+- 🔗  LinkedIn --> https://www.linkedin.com/in/ranjith-v-bb93b12a4/
 - 😄 My Quote - The more quieter you are, The more you are able to hear!
 - ⚡ Fun fact: Ethical Hacking is legal.
 
