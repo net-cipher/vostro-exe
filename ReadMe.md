@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Engineering**
 
-- 📫 How to reach me **cyberexpertranjith@gmail.com**
+- 📫 Reach me **cyberexpertranjith@gmail.com**
 
 - ⚡ Quote **Know the system to break into the system**
 
