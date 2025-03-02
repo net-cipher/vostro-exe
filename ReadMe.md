@@ -3,7 +3,7 @@
 
 - I'm working on **cybersecurity projects**
 
-- 🌱 I’m currently persuming my **Computer Science and Engineering** degree at *KRCE**
+- 🌱 I’m currently persuming my **Computer Science and Engineering** degree at **KRCE**
 
 - 📫 Reach me **cyberexpertranjith@gmail.com**
 
