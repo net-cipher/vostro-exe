@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ranjith V</h1>
 <h3 align="center">A Cybersecurity Enthusiast!</h3>
 
-- Hi, I'm working on cybersecurity project on **Automated IoT Security Penetration Testing Tool**
+- I'm working on **cybersecurity projects**
 
-- 🌱 I’m currently learning **Computer Science and Engineering**
+- 🌱 I’m currently persuming my **Computer Science and Engineering** degree at *KRCE**
 
 - 📫 Reach me **cyberexpertranjith@gmail.com**
 
